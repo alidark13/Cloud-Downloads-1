@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7073",
+  "folder": "YouTube__watch_20260514073242_afe7a6",
+  "base_name": "_Ushuaia_end_of_the_world_uqFyb9ycIaw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alidark13/Cloud-Downloads-1/releases/tag/co-releases-v1-7073",
+  "files": [
+    {
+      "name": "_Ushuaia_end_of_the_world_uqFyb9ycIaw_720p.mp4",
+      "url": "https://github.com/alidark13/Cloud-Downloads-1/releases/download/co-releases-v1-7073/_Ushuaia_end_of_the_world_uqFyb9ycIaw_720p.mp4",
+      "api_url": "https://api.github.com/repos/alidark13/Cloud-Downloads-1/releases/assets/419977006",
+      "id": 419977006,
+      "size": 434023483,
+      "download_count": 0
+    }
+  ]
+}
